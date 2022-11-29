@@ -8,6 +8,8 @@ const Contact = () => {
                 <p className='text-4xl font-bold inline border-b-4 border-pink-600 text-gray-300'>Contact</p>
                 <p className='text-3xl text-gray-300 py-4'>// email - mgeorgak859@gmail.com</p>
                 <p className='text-3xl text-gray-300 py-4'>// phone - +30 6946080222</p>
+                <p className='text-3xl text-gray-300 py-4'>// LinkedIn - https://www.linkedin.com/in/marios-georgakopoulos-585b33242/</p>
+                <p className='text-3xl text-gray-300 py-4'>// Github - https://github.com/satwswy</p>
             </div>
         </form>
     </div>
